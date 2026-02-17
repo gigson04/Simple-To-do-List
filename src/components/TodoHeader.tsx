@@ -8,7 +8,7 @@ export function TodoHeader() {
   return (
     <header className="flex items-center justify-between py-6 mb-8 border-b">
       <div className="flex flex-col">
-        <h1 className="text-3xl font-bold tracking-tight text-primary">ZenTask</h1>
+        <h1 className="text-3xl font-bold tracking-tight text-primary">Gigs Task</h1>
         <p className="text-muted-foreground">Stay focused, one task at a time.</p>
       </div>
       

@@ -26,7 +26,7 @@ function App() {
             <TodoList userId={user.id} />
             
             <footer className="mt-20 py-8 text-center text-sm text-muted-foreground border-t">
-              <p>&copy; {new Date().getFullYear()} ZenTask. All rights reserved.</p>
+              <p>&copy; {new Date().getFullYear()} Gigs Task. All rights reserved.</p>
               <p className="mt-1 italic">Stay focused, stay zen.</p>
             </footer>
           </div>

@@ -13,7 +13,7 @@ export function LandingPage({ onLogin }: LandingPageProps) {
       </div>
       
       <h1 className="text-5xl font-bold tracking-tight text-primary mb-4">
-        ZenTask
+        Gigs Task
       </h1>
       
       <p className="text-xl text-muted-foreground max-w-lg mb-10">
